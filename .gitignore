@@ -1,0 +1,8 @@
+bin
+chromedriver-linux64
+include
+lib
+lib64
+__pycache__
+pyvenv.cfg
+.env
