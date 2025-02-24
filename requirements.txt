@@ -1,0 +1,4 @@
+APScheduler
+python3-dotenv
+requests
+selenium
